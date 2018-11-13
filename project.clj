@@ -1,4 +1,4 @@
-(defproject gov.nasa.earthdata/cmr-site-templates "0.1.0"
+(defproject gov.nasa.earthdata/cmr-site-templates "0.2.0-SNAPSHOT"
   :description "Templates for CMR content"
   :url "https://github.com/cmr-exchange/cmr-site-templates"
   :license {
